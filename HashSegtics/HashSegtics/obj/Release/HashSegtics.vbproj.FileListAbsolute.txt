@@ -1,0 +1,12 @@
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\bin\Release\HT Segtics.exe.config
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\bin\Release\HT Segtics.exe
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\bin\Release\HT Segtics.pdb
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\bin\Release\HT Segtics.xml
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Release\HashSegtics.vbprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Release\HashSegtics.frmAbout.resources
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Release\HashSegtics.Form1.resources
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Release\HashSegtics.Resources.resources
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Release\HashSegtics.vbproj.GenerateResource.Cache
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Release\HT Segtics.exe
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Release\HT Segtics.xml
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Release\HT Segtics.pdb

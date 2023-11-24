@@ -1,0 +1,12 @@
+g:\documents\visual studio 2017\Projects\HashSegtics\HashSegtics\obj\Debug\HashSegtics.vbprojResolveAssemblyReference.cache
+g:\documents\visual studio 2017\Projects\HashSegtics\HashSegtics\obj\Debug\HashSegtics.Form1.resources
+g:\documents\visual studio 2017\Projects\HashSegtics\HashSegtics\obj\Debug\HashSegtics.Resources.resources
+g:\documents\visual studio 2017\Projects\HashSegtics\HashSegtics\obj\Debug\HashSegtics.vbproj.GenerateResource.Cache
+g:\documents\visual studio 2017\Projects\HashSegtics\HashSegtics\obj\Debug\HashSegtics.frmAbout.resources
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\bin\Debug\HT Segtics.exe.config
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\bin\Debug\HT Segtics.exe
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\bin\Debug\HT Segtics.pdb
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\bin\Debug\HT Segtics.xml
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Debug\HT Segtics.exe
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Debug\HT Segtics.xml
+G:\Documents\Visual Studio 2017\Projects\HashSegtics\HashSegtics\obj\Debug\HT Segtics.pdb
